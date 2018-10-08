@@ -38,6 +38,10 @@ a {
   color: #d21034;
 }
 
+a:hover{
+  color: #f8eb4c;
+}
+
 .container {
   width: 1024px;
   margin: 0 auto;
